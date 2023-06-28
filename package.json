@@ -1,0 +1,21 @@
+{
+  "name": "module11",
+  "version": "1.0.0",
+  "description": "i just study",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ulyanachernova/module11.git"
+  },
+  "author": "kruulya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ulyanachernova/module11/issues"
+  },
+  "homepage": "https://github.com/ulyanachernova/module11#readme"
+}
