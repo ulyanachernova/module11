@@ -1,5 +1,3 @@
-function ReverseStr (str) {
-   return str.split('').reverse().join('');
-}
-
-module.exports = ReverseStr;
+export function getPercents(percent, number) {
+	return number / 100 * percent;
+};
