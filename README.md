@@ -10,4 +10,4 @@
 > продумать корнер-кейсы; 
 > написать unit-тесты (минимум 3).
 
-#### Решение задачи - [по ссылке]('https://github.com/ulyanachernova/module11_homework')
+#### Решение задачи - [по ссылке]([https://github.com/ulyanachernova/module11_homework/tree/main/src])
