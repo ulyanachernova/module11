@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/ulyanachernova/module11/issues"
   },
-  "homepage": "https://github.com/ulyanachernova/module11#readme"
+  "homepage": "https://github.com/ulyanachernova/module11#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
 }
