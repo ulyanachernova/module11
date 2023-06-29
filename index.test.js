@@ -1,4 +1,4 @@
-import { getPercents } from './index.js';
+import { getPercents } from '../index.js';
 
 describe('tests get percents', () => {
     it ('Successful: 30% from 200 is 60', () => {
